@@ -1,6 +1,6 @@
 # Normal mode keys
 ## Навигация
-h      - left
+* h      - left
 * j      - down
 * k      - up
 * l      - right
