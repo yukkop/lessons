@@ -1,4 +1,4 @@
-# Normal mode keys
+# Обычный режим (Normal Mode)
 ## Навигация
 * h      - left
 * j      - down
@@ -21,8 +21,8 @@
 
 * i      - режим редактирования (insert) 
 * a      - режим редактирования (apped)
-* o      - line down and enter insert mode
-* O      - line up and enter insert mode
+* o      - режим редактирования на строке ниже
+* O      - режим редактирования на строке выше
 
 ## Разное
 * u      - отменить действие (undo)
@@ -40,7 +40,7 @@
 сответсвенно 
 * dd - удаляет всю строку
 
-# Режим выделения
+# Режим выделения (Visual Mode)
 * o      - revers cursor posiotion
 * d      - delete and yank selected
 * y      - yank selected
